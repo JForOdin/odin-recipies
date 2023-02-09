@@ -1,0 +1,13 @@
+/* styles.css */
+
+div {
+  color: white;
+  background-color: black;
+  display: flex;
+}
+
+p {
+  color: red;
+  align-items: center;
+  flex: 1 1 0;
+}
